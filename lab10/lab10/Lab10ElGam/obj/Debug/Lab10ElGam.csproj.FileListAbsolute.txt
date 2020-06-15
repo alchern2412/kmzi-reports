@@ -1,0 +1,7 @@
+C:\Users\Alexey Chernyavsky\Downloads\Univer\6SEMESTR\KMZI\labs\git-other\Crypto-Labs\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe.config
+C:\Users\Alexey Chernyavsky\Downloads\Univer\6SEMESTR\KMZI\labs\git-other\Crypto-Labs\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.exe
+C:\Users\Alexey Chernyavsky\Downloads\Univer\6SEMESTR\KMZI\labs\git-other\Crypto-Labs\Lab10\Lab10ElGam\bin\Debug\Lab10ElGam.pdb
+C:\Users\Alexey Chernyavsky\Downloads\Univer\6SEMESTR\KMZI\labs\git-other\Crypto-Labs\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csprojAssemblyReference.cache
+C:\Users\Alexey Chernyavsky\Downloads\Univer\6SEMESTR\KMZI\labs\git-other\Crypto-Labs\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.csproj.CoreCompileInputs.cache
+C:\Users\Alexey Chernyavsky\Downloads\Univer\6SEMESTR\KMZI\labs\git-other\Crypto-Labs\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.exe
+C:\Users\Alexey Chernyavsky\Downloads\Univer\6SEMESTR\KMZI\labs\git-other\Crypto-Labs\Lab10\Lab10ElGam\obj\Debug\Lab10ElGam.pdb
